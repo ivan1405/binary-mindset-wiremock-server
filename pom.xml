@@ -19,7 +19,7 @@
 
         <!-- dependencies -->
         <wiremock.version>2.26.3</wiremock.version>
-        <spring-core.version>5.2.4.RELEASE</spring-core.version>
+        <spring-core.version>5.2.22.RELEASE</spring-core.version>
         <lombok.version>1.18.10</lombok.version>
         <slf4j.version>1.7.5</slf4j.version>
     </properties>
